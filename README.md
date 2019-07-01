@@ -17,8 +17,5 @@
 - [3D-LaneNet: end-to-end 3D multiple lane detection](https://arxiv.org/abs/1811.10203v2) 2018, General Motors
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347) ECCV 2018, FiveAI
 
-https://arxiv.org/abs/1712.06080
-
-
 ## Domain Adaptation
 - [Sensor Transfer: Learning Optimal Sensor Effect Image Augmentation for Sim-to-Real Domain Adaptation](https://arxiv.org/abs/1809.06256) IEEE Robotics and Automation Letters 2019, University of Michigan
