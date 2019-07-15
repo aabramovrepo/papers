@@ -11,6 +11,7 @@
 - [FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354) CVPR 2019
 - [Multiple Encoder-Decoders Net for Lane Detection](https://openreview.net/forum?id=SJgiNo0cKX) ICLR 2019
 - [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591) IEEE IV 2018, KU Leuven [code](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+- [Spatial As Deep: Spatial CNN for Traffic Scene Understanding](https://arxiv.org/abs/1712.06080) IAAA 2018, The Chinese University of Hong Kong [code](https://github.com/XingangPan/SCNN) [data set](https://xingangpan.github.io/projects/CULane.html)
 - [Deep Multi-Sensor Lane Detection](https://arxiv.org/abs/1905.01555) IROS 2018, Uber ATG / Uni Toronto
 - [LaneNet: Real-Time Lane Detection Networks for Autonomous Driving](https://arxiv.org/abs/1807.01726) Horizon Robotics & Duke University
 - [3D-LaneNet: end-to-end 3D multiple lane detection](https://arxiv.org/abs/1811.10203v2) 2018, General Motors
