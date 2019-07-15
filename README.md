@@ -1,4 +1,4 @@
-# Papers
+# Papers and Benchmarks
 
 ## 3D Object Detection from Point Clouds
 - [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) CVPR 2019
@@ -15,6 +15,17 @@
 - [LaneNet: Real-Time Lane Detection Networks for Autonomous Driving](https://arxiv.org/abs/1807.01726) Horizon Robotics & Duke University
 - [3D-LaneNet: end-to-end 3D multiple lane detection](https://arxiv.org/abs/1811.10203v2) 2018, General Motors
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://arxiv.org/abs/1807.01347) ECCV 2018, FiveAI
+- [EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection](https://arxiv.org/abs/1806.05525) CoRR 2018, TomTom
+- [Deep Semantic Lane Segmentation for Mapless Driving](https://www.mrt.kit.edu/z/publ/download/2018/Meyer2018SemanticLanes.pdf) IROS 2018, FZI / KIT Karlsruhe
+- [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](https://arxiv.org/pdf/1612.07695.pdf) CoRR 2018, University Toronto / Uber
+- [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](https://arxiv.org/abs/1710.06288) CVPR 2017, KAIST, Samsung [code](https://github.com/SeokjuLee/VPGNet)
+- [End-to-End Ego Lane Estimation based on Sequential Transfer Learning for Self-Driving Cars](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Kim_End-To-End_Ego_Lane_CVPR_2017_paper.pdf) CVPR workshop 2017, Samsung
+- [Efficient Deep Models for Monocular Road Segmentation](https://lmb.informatik.uni-freiburg.de/Publications/2016/OB16b/oliveira16iros.pdf) IROS 2016, University of Freiburg
+- [An Empirical Evaluation of Deep Learning on Highway Driving](https://arxiv.org/abs/1504.01716) CoRR 2015, Stanford University, Baidu Research
+
+### Lane Detection Benchmarks
+
+- [TuSimple](https://github.com/TuSimple/tusimple-benchmark/wiki) TuSimple [demo](https://github.com/TuSimple/tusimple-benchmark/blob/master/example/lane_demo.ipynb) [challenge](https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md)
 
 ## Domain Adaptation
-- [Sensor Transfer: Learning Optimal Sensor Effect Image Augmentation for Sim-to-Real Domain Adaptation](https://arxiv.org/abs/1809.06256) IEEE Robotics and Automation Letters 2019, University of Michigan
+
