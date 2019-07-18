@@ -22,6 +22,7 @@
 - [VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition](https://arxiv.org/abs/1710.06288) CVPR 2017, KAIST, Samsung [code](https://github.com/SeokjuLee/VPGNet)
 - [End-to-End Ego Lane Estimation based on Sequential Transfer Learning for Self-Driving Cars](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Kim_End-To-End_Ego_Lane_CVPR_2017_paper.pdf) CVPR workshop 2017, Samsung
 - [Efficient Deep Models for Monocular Road Segmentation](https://lmb.informatik.uni-freiburg.de/Publications/2016/OB16b/oliveira16iros.pdf) IROS 2016, University of Freiburg
+- [DeepLanes: End-To-End Lane Position Estimation using Deep Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w3/papers/Gurghian_DeepLanes_End-To-End_Lane_CVPR_2016_paper.pdf) CVPR workshop 2016, Ford Research
 - [An Empirical Evaluation of Deep Learning on Highway Driving](https://arxiv.org/abs/1504.01716) CoRR 2015, Stanford University, Baidu Research
 
 ### Lane Detection Benchmarks
