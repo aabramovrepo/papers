@@ -32,5 +32,9 @@
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark/wiki) TuSimple, highway driving only [demo](https://github.com/TuSimple/tusimple-benchmark/blob/master/example/lane_demo.ipynb) [challenge](https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md)
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) FIVE AI
 
+## General Computer Vision
+
+- [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
+
 ## Domain Adaptation
 
