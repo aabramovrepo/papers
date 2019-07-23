@@ -38,6 +38,10 @@
 
 ## Domain Adaptation
 
+- [Strong-Weak Distribution Alignment for Adaptive Object Detection](https://arxiv.org/abs/1812.04798) CVPR 2019, Boston University
+- [Domain Adaptive Faster R-CNN for Object Detection in the Wild](https://arxiv.org/abs/1803.03243) CVPR 2018, ETH
+- [Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?](https://arxiv.org/abs/1610.01983) ICRA 2017, University of Michigan
+
 ## Camera Calibration
 - [Deep Single Image Camera Calibration with Radial Distortion](https://research.mapillary.com/publication/cvpr19d/) CVPR 2019, Mapillary
 - [A Perceptual Measure for Deep Single Image Camera Calibration](http://vision.gel.ulaval.ca/~jflalonde/projects/deepCalib/index.html) CVPR 2018, Adobe
