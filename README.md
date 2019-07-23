@@ -34,8 +34,12 @@
 
 ## General Computer Vision
 
-- [Deep Single Image Camera Calibration with Radial Distortion](https://research.mapillary.com/publication/cvpr19d/) CVPR 2019, Mapillary
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
 
 ## Domain Adaptation
+
+## Camera Calibration
+- [Deep Single Image Camera Calibration with Radial Distortion](https://research.mapillary.com/publication/cvpr19d/) CVPR 2019, Mapillary
+- [A Perceptual Measure for Deep Single Image Camera Calibration](http://vision.gel.ulaval.ca/~jflalonde/projects/deepCalib/index.html) CVPR 2018, Adobe
+
 
