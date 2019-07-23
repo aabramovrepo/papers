@@ -29,7 +29,7 @@
 
 ### Lane Detection Benchmarks
 
-- [CULane Dataset](https://xingangpan.github.io/projects/CULane.html)
+- [CULane](https://xingangpan.github.io/projects/CULane.html) [SCNN](https://github.com/XingangPan/SCNN) [processing annotations](https://github.com/XingangPan/seg_label_generate)
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark/wiki) TuSimple, highway driving only [demo](https://github.com/TuSimple/tusimple-benchmark/blob/master/example/lane_demo.ipynb) [challenge](https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md)
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) FIVE AI
 
