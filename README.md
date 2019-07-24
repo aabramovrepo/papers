@@ -36,6 +36,7 @@
 ## General Computer Vision
 
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
+- [Bundle Adjustment — A Modern Synthesis](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Triggs00.pdf) survey, ICCV 1999
 
 ## Domain Adaptation
 
