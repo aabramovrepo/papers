@@ -1,6 +1,7 @@
 # Papers and Benchmarks
 
 ## 3D Object Detection from Point Clouds
+
 - [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) CVPR 2019
 - [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) CVPR 2019, Uber ATG
 - [PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) CVPR 2018, Uber ATG / Uni Toronto [code](https://github.com/nutonomy/second.pytorch)
@@ -10,6 +11,7 @@
 - [Multi-View 3D Object Detection Network for Autonomous Driving] CVPR 2017, Baidu (https://arxiv.org/abs/1611.07759)
 
 ## Lane Detection
+
 - [FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354) CVPR 2019
 - [Multiple Encoder-Decoders Net for Lane Detection](https://openreview.net/forum?id=SJgiNo0cKX) ICLR 2019
 - [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591) IEEE IV 2018, KU Leuven [code](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
@@ -45,7 +47,11 @@
 - [Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?](https://arxiv.org/abs/1610.01983) ICRA 2017, University of Michigan
 
 ## Camera Calibration
+
 - [Deep Single Image Camera Calibration with Radial Distortion](https://research.mapillary.com/publication/cvpr19d/) CVPR 2019, Mapillary
 - [A Perceptual Measure for Deep Single Image Camera Calibration](http://vision.gel.ulaval.ca/~jflalonde/projects/deepCalib/index.html) CVPR 2018, Adobe
 
+## Mapping
+
+- [Convolutional Recurrent Network for Road Boundary Extraction](https://eng.uber.com/research/convolutional-recurrent-network-for-road-boundary-extraction/) CVPR 2019, Uber / University of Toronto / MIT
 
