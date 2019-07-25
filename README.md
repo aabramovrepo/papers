@@ -2,14 +2,17 @@
 
 ## 3D Object Detection from Point Clouds
 
-- [Multi-Task Multi-Sensor Fusion for 3D Object Detection](https://eng.uber.com/research/multi-task-multi-sensor-fusion-for-3d-object-detection/), CVPR 2019, Uber / University of Toronto
 - [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) CVPR 2019, nuTonomy / APTIV
 - [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) CVPR 2019, Uber ATG
 - [PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) CVPR 2018, Uber ATG / Uni Toronto [code](https://github.com/nutonomy/second.pytorch)
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) CVPR 2018, Apple
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://eng.uber.com/research/fast-and-furious-real-time-end-to-end-3d-detection-tracking-and-motion-forecasting-with-a-single-convolutional-net/) CVPR 2018, Uber
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017, Stanford University [code](https://github.com/charlesq34/pointnet)
-- [Multi-View 3D Object Detection Network for Autonomous Driving] CVPR 2017, Baidu (https://arxiv.org/abs/1611.07759)
+
+## Multi-Sensor Fusion
+
+- [Multi-Task Multi-Sensor Fusion for 3D Object Detection](https://eng.uber.com/research/multi-task-multi-sensor-fusion-for-3d-object-detection/), CVPR 2019, Uber / University of Toronto
+- [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/abs/1611.07759) CVPR 2017, Baidu
 
 ## Lane Detection
 
