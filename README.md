@@ -2,7 +2,8 @@
 
 ## 3D Object Detection from Point Clouds
 
-- [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) CVPR 2019
+- [Multi-Task Multi-Sensor Fusion for 3D Object Detection](https://eng.uber.com/research/multi-task-multi-sensor-fusion-for-3d-object-detection/), CVPR 2019, Uber / University of Toronto
+- [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) CVPR 2019, nuTonomy / APTIV
 - [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) CVPR 2019, Uber ATG
 - [PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) CVPR 2018, Uber ATG / Uni Toronto [code](https://github.com/nutonomy/second.pytorch)
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) CVPR 2018, Apple
