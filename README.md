@@ -50,6 +50,10 @@
 - [Domain Adaptive Faster R-CNN for Object Detection in the Wild](https://arxiv.org/abs/1803.03243) CVPR 2018, ETH
 - [Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?](https://arxiv.org/abs/1610.01983) ICRA 2017, University of Michigan
 
+## Image Segmentation
+
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI, University of Freiburg
+
 ## Camera Calibration
 
 - [Deep Single Image Camera Calibration with Radial Distortion](https://research.mapillary.com/publication/cvpr19d/) CVPR 2019, Mapillary
