@@ -56,7 +56,8 @@
 
 ## Image Segmentation
 
-- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI, University of Freiburg
+- [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) PAMI 2017, University of Cambridge
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI 2015, University of Freiburg, [link](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
 ## Camera Calibration
 
