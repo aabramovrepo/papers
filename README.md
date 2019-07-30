@@ -55,3 +55,7 @@
 
 - [Convolutional Recurrent Network for Road Boundary Extraction](https://eng.uber.com/research/convolutional-recurrent-network-for-road-boundary-extraction/) CVPR 2019, Uber / University of Toronto / MIT
 
+## Computer Vision Tools
+
+- [Visualizing Data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
+
