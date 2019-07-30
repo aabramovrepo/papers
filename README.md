@@ -38,6 +38,7 @@
 - [CULane](https://xingangpan.github.io/projects/CULane.html) Multimedia Laboratory, The Chinese University of Hong Kong
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark/wiki) TuSimple, highway driving only [demo](https://github.com/TuSimple/tusimple-benchmark/blob/master/example/lane_demo.ipynb) [challenge](https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md)
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) FIVE AI
+- [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) [paper](https://arxiv.org/abs/1805.04687)
 
 ### Datasets for Autonomous Driving
 
