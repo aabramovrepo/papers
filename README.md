@@ -69,4 +69,5 @@
 
 ## Trajectory Prediction
 
-- [Social LSTM: Human Trajectory Prediction in Crowded Spaces(http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html)
+- [Social LSTM: Human Trajectory Prediction in Crowded Spaces](http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html) CVPR 2016, University of Stanford
+- [Convolutional Social Pooling for Vehicle Trajectory Prediction](https://arxiv.org/abs/1805.06771) CVPRW 2018, University of California, San Diego
