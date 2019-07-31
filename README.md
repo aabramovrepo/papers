@@ -44,7 +44,12 @@
 
 - [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027) nuScenes, 2019 [link](https://www.nuscenes.org/)
 
-## General Computer Vision
+# General Computer Vision
+
+## CNN Architectures
+
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet
+- [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
 
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
 - [Bundle Adjustment — A Modern Synthesis](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Triggs00.pdf) survey, ICCV 1999
