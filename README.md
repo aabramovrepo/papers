@@ -68,6 +68,16 @@
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) FCN architecture, CVPR 2015
 - [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366) ICCV 2015
 
+## Object Detection
+
+- [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012) CVPR 2017
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) SSD, ECCV 2016
+- [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) YOLO, CVPR 2016
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) Faster R-CNN, NIPS 2015
+- [Fast R-CNN](https://arxiv.org/abs/1504.08083) Fast R-CNN, ICCV 2015
+- [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) R-CNN, CVPR 2014
+- [Selective Search for Object Recognition](http://www.huppelen.nl/publications/selectiveSearchDraft.pdf) IJCV 2013
+
 ## Camera Calibration
 
 - [Deep Single Image Camera Calibration with Radial Distortion](https://research.mapillary.com/publication/cvpr19d/) CVPR 2019, Mapillary
