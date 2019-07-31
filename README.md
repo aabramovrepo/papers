@@ -50,9 +50,7 @@
 
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet
 - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
-
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
-- [Bundle Adjustment — A Modern Synthesis](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Triggs00.pdf) survey, ICCV 1999
 
 ## Domain Adaptation
 
@@ -78,3 +76,7 @@
 
 - [Social LSTM: Human Trajectory Prediction in Crowded Spaces](http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html) CVPR 2016, University of Stanford
 - [Convolutional Social Pooling for Vehicle Trajectory Prediction](https://arxiv.org/abs/1805.06771) CVPRW 2018, University of California, San Diego
+
+## Computer Vision Tools
+
+- [Bundle Adjustment — A Modern Synthesis](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Triggs00.pdf) survey, ICCV 1999
