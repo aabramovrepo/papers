@@ -48,9 +48,11 @@
 
 ## CNN Architectures
 
-- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet
-- [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
+- [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) CVPR 2017
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet, CVPR 2016
+- [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513) NIPS 2016 [code](https://github.com/dannyneil/public_plstm)
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
+- [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf) 1997
 
 ## Domain Adaptation
 
@@ -62,6 +64,9 @@
 
 - [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) PAMI 2017, University of Cambridge
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI 2015, University of Freiburg, [link](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf) FCN architecture, PAMI 2016
+- [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) FCN architecture, CVPR 2015
+- [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366) ICCV 2015
 
 ## Camera Calibration
 
@@ -72,12 +77,6 @@
 
 - [Convolutional Recurrent Network for Road Boundary Extraction](https://eng.uber.com/research/convolutional-recurrent-network-for-road-boundary-extraction/) CVPR 2019, Uber / University of Toronto / MIT
 
-<<<<<<< HEAD
-## Computer Vision Tools
-
-- [Visualizing Data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
-
-=======
 ## Trajectory Prediction
 
 - [Social LSTM: Human Trajectory Prediction in Crowded Spaces](http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html) CVPR 2016, University of Stanford
@@ -86,4 +85,4 @@
 ## Computer Vision Tools
 
 - [Bundle Adjustment — A Modern Synthesis](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Triggs00.pdf) survey, ICCV 1999
->>>>>>> 9ea2031bc0bb75d7e8bab8e5760c599d52544bbf
+- [Visualizing Data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
