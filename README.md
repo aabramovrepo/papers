@@ -62,6 +62,7 @@
 
 ## Image Segmentation
 
+- [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) TechReport 2018
 - [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) PAMI 2017, University of Cambridge
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI 2015, University of Freiburg, [link](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf) FCN architecture, PAMI 2016
@@ -70,6 +71,7 @@
 
 ## Object Detection
 
+- [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) CVPR 2017
 - [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012) CVPR 2017
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) SSD, ECCV 2016
 - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) YOLO, CVPR 2016
