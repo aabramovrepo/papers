@@ -44,7 +44,7 @@
 
 - [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027) nuScenes, 2019 [link](https://www.nuscenes.org/)
 - [Semantic KITTI](http://www.semantic-kitti.org/) A Dataset for Semantic Scene Understanding using LiDAR Sequences
-- [A Dataset for Semantic Segmentation of Point Cloud Sequences](https://arxiv.org/abs/1904.01416v1) ICCV 2019, University of Bonn
+- [A Dataset for Semantic Segmentation of Point Cloud Sequences](https://arxiv.org/abs/1904.01416v1) ICCV 2019, University of Bonn [GitHub link](https://github.com/PRBonn/semantic-kitti-api)
 
 # General Computer Vision
 
