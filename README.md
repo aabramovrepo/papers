@@ -89,6 +89,10 @@
 
 - [Convolutional Recurrent Network for Road Boundary Extraction](https://eng.uber.com/research/convolutional-recurrent-network-for-road-boundary-extraction/) CVPR 2019, Uber / University of Toronto / MIT
 
+## Super Resolution
+
+- [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158) CVPR 2016
+
 ## Trajectory Prediction
 
 - [Social LSTM: Human Trajectory Prediction in Crowded Spaces](http://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html) CVPR 2016, University of Stanford
