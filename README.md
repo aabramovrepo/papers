@@ -8,6 +8,7 @@
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) CVPR 2018, Apple
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://eng.uber.com/research/fast-and-furious-real-time-end-to-end-3d-detection-tracking-and-motion-forecasting-with-a-single-convolutional-net/) CVPR 2018, Uber
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017, Stanford University [code](https://github.com/charlesq34/pointnet)
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017 [code](https://github.com/charlesq34/pointnet)
 
 ## Multi-Sensor Fusion
 
