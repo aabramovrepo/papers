@@ -8,6 +8,7 @@
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) CVPR 2018, Apple
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://eng.uber.com/research/fast-and-furious-real-time-end-to-end-3d-detection-tracking-and-motion-forecasting-with-a-single-convolutional-net/) CVPR 2018, Uber
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017, Stanford University [code](https://github.com/charlesq34/pointnet)
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017 [code](https://github.com/charlesq34/pointnet)
 
 ## Multi-Sensor Fusion
 
@@ -43,6 +44,8 @@
 ### Datasets for Autonomous Driving
 
 - [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027) nuScenes, 2019 [link](https://www.nuscenes.org/)
+- [Semantic KITTI](http://www.semantic-kitti.org/) A Dataset for Semantic Scene Understanding using LiDAR Sequences
+- [A Dataset for Semantic Segmentation of Point Cloud Sequences](https://arxiv.org/abs/1904.01416v1) ICCV 2019, University of Bonn [GitHub link](https://github.com/PRBonn/semantic-kitti-api)
 
 # General Computer Vision
 
@@ -88,6 +91,10 @@
 ## Mapping
 
 - [Convolutional Recurrent Network for Road Boundary Extraction](https://eng.uber.com/research/convolutional-recurrent-network-for-road-boundary-extraction/) CVPR 2019, Uber / University of Toronto / MIT
+
+## Super Resolution
+
+- [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158) CVPR 2016
 
 ## Trajectory Prediction
 
