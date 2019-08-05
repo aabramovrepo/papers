@@ -64,6 +64,7 @@
 - [Strong-Weak Distribution Alignment for Adaptive Object Detection](https://arxiv.org/abs/1812.04798) CVPR 2019, Boston University
 - [Domain Adaptive Faster R-CNN for Object Detection in the Wild](https://arxiv.org/abs/1803.03243) CVPR 2018, ETH
 - [Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?](https://arxiv.org/abs/1610.01983) ICRA 2017, University of Michigan
+- [Unsupervised Domain Adaptation by Backpropagation](https://arxiv.org/abs/1409.7495) ICML 2015
 
 ## Image Segmentation
 
