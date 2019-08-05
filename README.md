@@ -55,6 +55,8 @@
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet, CVPR 2016
 - [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513) NIPS 2016 [code](https://github.com/dannyneil/public_plstm)
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
+- [Highway Networks](https://arxiv.org/abs/1505.00387) ICML DL Workshop 2015
+- [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/abs/1211.5063) ICML 2013
 - [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf) 1997
 
 ## Domain Adaptation
