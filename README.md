@@ -8,7 +8,6 @@
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) CVPR 2018, Apple
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://eng.uber.com/research/fast-and-furious-real-time-end-to-end-3d-detection-tracking-and-motion-forecasting-with-a-single-convolutional-net/) CVPR 2018, Uber
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017, Stanford University [code](https://github.com/charlesq34/pointnet)
-- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) CVPR 2017 [code](https://github.com/charlesq34/pointnet)
 
 ## Multi-Sensor Fusion
 
@@ -47,17 +46,28 @@
 - [Semantic KITTI](http://www.semantic-kitti.org/) A Dataset for Semantic Scene Understanding using LiDAR Sequences
 - [A Dataset for Semantic Segmentation of Point Cloud Sequences](https://arxiv.org/abs/1904.01416v1) ICCV 2019, University of Bonn [GitHub link](https://github.com/PRBonn/semantic-kitti-api)
 
+## Autonomous Driving
+
+- [Fast Scene Understanding for Autonomous Driving](https://arxiv.org/abs/1708.02550) IV 2017
+- [Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/abs/1708.02551) CoRR 2017 [code](https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow)
+- [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) CoRR 2016
+
 # General Computer Vision
 
 ## CNN Architectures
 
 - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) CVPR 2017
+- [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678) ICLR 2017
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet, CVPR 2016
 - [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513) NIPS 2016 [code](https://github.com/dannyneil/public_plstm)
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
 - [Highway Networks](https://arxiv.org/abs/1505.00387) ICML DL Workshop 2015
 - [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/abs/1211.5063) ICML 2013
 - [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf) 1997
+
+## Deep Learning
+
+- [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) arXiv 2018, Facebook
 
 ## Domain Adaptation
 
