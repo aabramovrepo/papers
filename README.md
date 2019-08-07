@@ -38,13 +38,15 @@
 - [CULane](https://xingangpan.github.io/projects/CULane.html) Multimedia Laboratory, The Chinese University of Hong Kong
 - [TuSimple](https://github.com/TuSimple/tusimple-benchmark/wiki) TuSimple, highway driving only [demo](https://github.com/TuSimple/tusimple-benchmark/blob/master/example/lane_demo.ipynb) [challenge](https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md)
 - [A Dataset for Lane Instance Segmentation in Urban Environments](https://five.ai/datasets) FIVE AI
-- [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) [paper](https://arxiv.org/abs/1805.04687)
+- [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) BDD100K: A Large-scale Diverse Driving Video Database [paper](https://arxiv.org/abs/1805.04687)
 
 ### Datasets for Autonomous Driving
 
+- [Lyft Level 5 AV Dataset](https://level5.lyft.com/dataset/) 2019 [devkit](https://github.com/lyft/nuscenes-devkit)
 - [nuScenes: A multimodal dataset for autonomous driving](https://arxiv.org/abs/1903.11027) nuScenes, 2019 [link](https://www.nuscenes.org/)
 - [Semantic KITTI](http://www.semantic-kitti.org/) A Dataset for Semantic Scene Understanding using LiDAR Sequences
 - [A Dataset for Semantic Segmentation of Point Cloud Sequences](https://arxiv.org/abs/1904.01416v1) ICCV 2019, University of Bonn [GitHub link](https://github.com/PRBonn/semantic-kitti-api)
+- [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) ICCV 2017 [paper](https://www.mapillary.com/dataset/citation)
 
 ## Autonomous Driving
 
