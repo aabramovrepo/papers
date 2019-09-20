@@ -16,6 +16,7 @@
 
 ## Lane Detection
 
+- [End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293) ArXiv preprint 2019, KU Leuven [code](https://github.com/wvangansbeke/LaneDetection_End2End)
 - [FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354) CVPR 2019
 - [Multiple Encoder-Decoders Net for Lane Detection](https://openreview.net/forum?id=SJgiNo0cKX) ICLR 2019
 - [Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591) IEEE IV 2018, KU Leuven [code](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
