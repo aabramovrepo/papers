@@ -83,9 +83,12 @@
 
 - [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/abs/1801.05746) TechReport 2018
 - [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) PAMI 2017, University of Cambridge
-- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI 2015, University of Freiburg, [link](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
+- [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) ArXiv preprint 2016
+- [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) ArXiv preprint 2016
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf) FCN architecture, PAMI 2016
+- [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062) ICLR 2015
 - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) FCN architecture, CVPR 2015
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) MICCAI 2015, University of Freiburg, [link](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366) ICCV 2015
 
 ## Object Detection
