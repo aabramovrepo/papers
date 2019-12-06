@@ -2,8 +2,11 @@
 
 ## 3D Object Detection from Point Clouds
 
+- [Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection](https://arxiv.org/abs/1903.01864) IROS 2019
 - [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) CVPR 2019, nuTonomy / APTIV
 - [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) CVPR 2019, Uber ATG
+- [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488) CVPR 2018, [link](http://stanford.edu/~rqi/frustum-pointnets/)
+- [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://arxiv.org/abs/1711.10871) CVPR 2018, stanford University & Zoox
 - [PIXOR: Real-time 3D Object Detection from Point Clouds](https://arxiv.org/abs/1902.06326) CVPR 2018, Uber ATG / Uni Toronto [code](https://github.com/nutonomy/second.pytorch)
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) CVPR 2018, Apple
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](https://eng.uber.com/research/fast-and-furious-real-time-end-to-end-3d-detection-tracking-and-motion-forecasting-with-a-single-convolutional-net/) CVPR 2018, Uber
@@ -61,6 +64,7 @@
 
 - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) CVPR 2017
 - [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678) ICLR 2017
+- [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661) CVPR 2016
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ResNet, CVPR 2016
 - [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513) NIPS 2016 [code](https://github.com/dannyneil/public_plstm)
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) NIPS 2015, Google DeepMind
@@ -70,6 +74,7 @@
 
 ## Deep Learning
 
+- [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) ICLR 2019
 - [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) arXiv 2018, Facebook
 
 ## Domain Adaptation
