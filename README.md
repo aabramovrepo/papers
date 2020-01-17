@@ -62,6 +62,7 @@
 
 ## CNN Architectures
 
+- [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/abs/1810.00736)
 - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) CVPR 2017
 - [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678) ICLR 2017
 - [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661) CVPR 2016
