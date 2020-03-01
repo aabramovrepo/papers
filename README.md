@@ -70,6 +70,7 @@
 
 ## Deep Learning
 
+- [Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift](https://arxiv.org/abs/1801.05134) CVPR 2019
 - [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) arXiv 2018, Facebook
 
 ## Domain Adaptation
