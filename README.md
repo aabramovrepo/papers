@@ -78,6 +78,7 @@
 - [Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift](https://arxiv.org/abs/1801.05134) CVPR 2019
 - [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) ICLR 2019
 - [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) arXiv 2018, Facebook
+- [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342) Google
 
 ## Domain Adaptation
 
