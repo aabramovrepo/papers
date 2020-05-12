@@ -79,6 +79,8 @@
 - [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/abs/1903.12261) ICLR 2019
 - [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) arXiv 2018, Facebook
 - [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342) Google
+- [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf) CVPR 2018, Google
+- [https://arxiv.org/abs/1503.02531v1](Distilling the Knowledge in a Neural Network) Google 2015
 
 ## Domain Adaptation
 
