@@ -62,7 +62,10 @@
 
 ## CNN Architectures
 
+- [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171) DeepMind 2021 [code](https://github.com/deepmind/deepmind-research/tree/master/nfnets)
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) ICML 2019 [code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
 - [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/abs/1810.00736)
+- [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) CVPR 2017, Google  
 - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) CVPR 2017
 - [An Analysis of Deep Neural Network Models for Practical Applications](https://arxiv.org/abs/1605.07678) ICLR 2017
 - [Multigrid Neural Architectures](https://arxiv.org/abs/1611.07661) CVPR 2016
@@ -81,6 +84,15 @@
 - [Quantizing deep convolutional networks for efficient inference: A whitepaper](https://arxiv.org/abs/1806.08342) Google
 - [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf) CVPR 2018, Google
 - [https://arxiv.org/abs/1503.02531v1](Distilling the Knowledge in a Neural Network) Google 2015
+- [https://arxiv.org/abs/1505.04467](Exploring Nearest Neighbor Approaches for Image Captioning) 2015
+
+## Deep Reinforcement Learning
+
+- [How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned](https://arxiv.org/abs/2102.02915)
+
+## Machine Learning
+
+- [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265) Nature 2020, DeepMind
 
 ## Domain Adaptation
 
